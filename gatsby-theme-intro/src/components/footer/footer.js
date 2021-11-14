@@ -12,7 +12,7 @@ const Footer = ({ name, showThemeLogo = true }) => (
         All rights reserved.
       </div>
       <div className="w-1/3 text-right">
-        {showThemeLogo && (
+        {/* {showThemeLogo && (
           <a
             aria-label="Intro theme"
             className="text-back-light"
@@ -40,7 +40,7 @@ const Footer = ({ name, showThemeLogo = true }) => (
               </g>
             </svg>
           </a>
-        )}
+        )} */}
       </div>
     </div>
   </footer>

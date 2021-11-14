@@ -1,0 +1,29 @@
+- profile:
+  initials: RG
+  name: Raja Ganesan
+  profession: Technologist, Engineer, Architect
+  image: images/profile.png
+  location: Singapore
+  relocation: false
+  company: Amazon Web Services
+  for_hire: false
+  focus: Digital Technologies
+  focus_url: https://rajaganesan.me
+  about: |
+    Raja have over a decades’ worth of experience in digital technologies, at times a builder of code and a creator of high-performance teams on others.
+
+    He currently help organizations navigate Digital Transformations as a Cloud Architect in Amazon Web Services (AWS).
+  skills:
+    - Cloud Engineering
+    - Distributed computing
+    - Machine Learning/MLOps
+  tools:
+    - AWS/Terraform/CloudFormation/
+    - Java/Kotlin/Springboot
+    - Javascript/TypeScript/React
+    - Kubernetes/Istio
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

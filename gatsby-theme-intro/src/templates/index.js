@@ -27,7 +27,7 @@ const IndexPage = ({ data }) => {
           history={history.nodes}
           profile={profile}
           projects={projects.nodes}
-          formspreeEndpoint={site.siteMetadata.formspreeEndpoint}
+          // formspreeEndpoint={site.siteMetadata.formspreeEndpoint}
         />
       </div>
 

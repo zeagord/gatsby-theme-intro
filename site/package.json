@@ -3,7 +3,6 @@
   "name": "site",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Wojciech Kocjan <wojciech@kocjan.net>",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
